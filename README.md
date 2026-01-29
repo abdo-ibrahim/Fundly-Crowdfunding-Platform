@@ -2,6 +2,8 @@
 
 A Fundle is a crowdfunding platform helps people raise money for projects or causes by collecting small contributions from many supporters online. This project uses TypeScript, HTML, CSS, JSON Server, and JSON Server Auth.
 
+![Project Structure](./structure.png)
+
 ## Getting Started
 
 Follow these steps to set up and run the project locally.
